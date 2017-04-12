@@ -1,0 +1,14 @@
+{
+    "version":20170412,
+    "factory":"bqq",
+    "v20170402":[{
+        "url":"https://nchc.dl.sourceforge.net/project/cjson/cJSONFiles.zip",
+        "size":25430,
+        "md5":"4ff46c0e451904951019597da78df7c1"
+    }],
+    "v20170401":[{
+        "url":"https://xxxx/version/master/imagev1",
+        "size":7292543,
+        "md5":"000000"
+    }]
+}
