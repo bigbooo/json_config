@@ -2,7 +2,7 @@
     "version":20170412,
     "factory":"bqq",
     "v20170402":[{
-        "url":"https://nchc.dl.sourceforge.net/project/cjson/cJSONFiles.zip",
+        "url":"https://codeload.github.com/bigbooo/json_config/zip/master",
         "size":25430,
         "md5":"4ff46c0e451904951019597da78df7c1"
     }],
